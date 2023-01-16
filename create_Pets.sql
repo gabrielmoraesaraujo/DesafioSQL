@@ -1,0 +1,1 @@
+pets=# CREATE TABLE "pets" ("id" SERIAL PRIMARY KEY, "pet_Name" VARCHAR(50) NOT NULL, "raca"VARCHAR(50) NOT NULL, "especie" VARCHAR(50) NOT NULL);
